@@ -1,3 +1,9 @@
+rrdtool (1.7.2-3deepin) unstable; urgency=medium
+
+  * Adapt to python 3.10.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Tue, 08 Aug 2023 16:53:59 +0800
+
 rrdtool (1.7.2-3) unstable; urgency=medium
 
   * Added Breaks+Replaces for debug symbols migration. (Closes: #943840)
