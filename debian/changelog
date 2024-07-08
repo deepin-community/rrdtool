@@ -1,3 +1,9 @@
+rrdtool (1.7.2-4deepin1) unstable; urgency=medium
+
+  * No source change upload against python 3.12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Mon, 08 Jul 2024 09:57:24 +0200
+
 rrdtool (1.7.2-4) unstable; urgency=medium
 
   [ Jean-Michel Vourgère ]
